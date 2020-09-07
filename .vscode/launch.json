@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {"name":"Python: 当前文件","type":"python","request":"launch","program":"${file}","console":"integratedTerminal"},
+        {
+            "name": "how",
+            "type": "python",
+            "request": "launch",
+            "stopOnEntry": false,
+            "pythonPath": "C:\\Alan\\learnnotesync\\config\\venv\\Scripts\\python",
+            "program": "${workspaceRoot}/Untitled-2.py",
+            "cwd": "${workspaceRoot}",
+            "env": {
+
+            },
+            "args": [
+                "run",
+                "--no-debugger",
+                "--no-reload"
+            ],
+            "envFile": "${workspaceRoot}/.env",
+            "debugOptions": [
+                "RedirectOutput"
+            ]
+        }
+    ]
+}
