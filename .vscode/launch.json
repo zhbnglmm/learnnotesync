@@ -7,7 +7,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": false,
-            "pythonPath": "C:\\Alan\\learnnotesync\\config\\venv\\Scripts\\python",
+            "pythonPath": "C:\\Alan\\learnnote3\\config\\venv\\Scripts\\python",
             "program": "${workspaceRoot}/Untitled-2.py",
             "cwd": "${workspaceRoot}",
             "env": {

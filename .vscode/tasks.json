@@ -6,7 +6,7 @@
         {
             "label": "run as a python program",
             "type": "shell",
-            "command": "C:\\Alan\\learnnotesync\\config\\venv\\Scripts\\python",
+            "command": "C:\\Alan\\learnnote3\\config\\venv\\Scripts\\python",
             "args": [
                 "${file}"
             ],
